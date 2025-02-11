@@ -1,5 +1,5 @@
 # billie_jean_ds203
-Song Classification using Ensemble Learning - Course Project [DS203] - Autumn 2024 - 25
+Song Classification using Ensemble Learning - Course Project [DS203] - Autumn 2024 - 25 <br>
 _Instructor: Prof. Vinay Kulkarni, C-MiNDS, IIT Bombay_
 
 Team Members:
