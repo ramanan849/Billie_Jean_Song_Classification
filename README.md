@@ -10,6 +10,8 @@ _Instructor: Prof. Vinay Kulkarni, C-MiNDS, IIT Bombay_
 5. [Song Predictions (manual)](https://docs.google.com/spreadsheets/d/11E85fL6itdAxA37ArHm91HsEt5B1scq_YT8_Auf4vn0/edit?usp=sharing) 
 6. [Model Predictions](https://github.com/ramanan849/Billie_Jean_Song_Classification/blob/4a2e31a666f2aab1b28c1944421a4567780378a4/E7-23B1854-predictions_2024-11-08%2013_20_39.742064.csv)
 7. [Sample of reconstructed audio file from MFCC](reconstructed_audio.wav) (guess which genre 🤓)
+   
+8. [**Assesment Report Card**](https://github.com/ramanan849/Billie_Jean_Song_Classification/blob/55c8cf3edc2c39bdd7b7b724506a7dc6bbf67c84/WM3%20IITB%20__%2023B1854-E7-feedback.txt.pdf)
 ***   
 Team Members:
 1. Chinmay Kale, 23B1849 (Anchor), Engineering Physics
@@ -25,6 +27,6 @@ Team Members:
 5. Michael Jackson
 6. National Anthem, Jana Gana Mana
 ***
-Originally, we used Kaggle to house our code and dataset.
+Originally, we used Kaggle to house our code and dataset, rather than a repo
 
 
